@@ -1,0 +1,19 @@
+{
+  "name": "nunchuckie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theotran/nunchuckie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theotran/nunchuckie/issues"
+  },
+  "homepage": "https://github.com/theotran/nunchuckie#readme"
+}
